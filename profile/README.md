@@ -1,5 +1,4 @@
-# IP-NFT.org 
-## This Org is a open source toolkit for tokenizing research assets. 
+## The IP-NFT.org is an open source toolkit for tokenizing research assets. 
 This may include the management of ownership, data, and stakeholders
 
 The toolkit mentiones different services for different parts of the tech stack that maintain their own Repositories. 
